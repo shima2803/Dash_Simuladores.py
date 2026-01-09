@@ -1,4 +1,4 @@
-# 🌟 Sobre Este Projet
+# 🌟 Sobre Este Projeto
 ---
 
 Este projeto surgiu de uma necessidade real no meu dia a dia de trabalho.  
